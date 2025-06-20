@@ -21,4 +21,9 @@ Utilize HTML, CSS, and JavaScript to create a dynamic and visually engaging fron
 Employ Node.js for building a robust and scalable back-end to manage user accounts, educational content, assessments, and competition functionalities efficiently.
 This project aims to bridge the gap between traditional education and modern learning methodologies, fostering a culture of continuous improvement and achievement among students.
 
-NOTE: Install Node files using
+NOTE:
+Install node modules.
+
+Also run node js by typing 'npm install -y' on terminal. So that, the node_modules will be installed in your system.
+
+Make sure you install these modules before running the code.
